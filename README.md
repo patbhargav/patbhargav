@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Infrastructure as Code by using Bicep and Terraform.
+- 📫 How to reach me: BhargavP@outlook.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: ...
+
+
+
+
+
+
+
 <!--
 **patbhargav/patbhargav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
