@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Infrastructure as Code by using Bicep and Terraform.
-- 📫 How to reach me: BhargavP@outlook.com
-- 😄 Pronouns: He/Him
+🌱 I’m currently learning Infrastructure as Code by using Bicep and Terraform.
+📫 BhargavP@outlook.com
 
 
 
