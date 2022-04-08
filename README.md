@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Infrastructure as Code by using Bicep and Terraform.
-📫 BhargavP@outlook.com
+- 🌱 I’m currently learning Infrastructure as Code using Bicep and Terraform.
+- 📫 BhargavP@outlook.com
 
 
 
